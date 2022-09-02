@@ -143,6 +143,7 @@ textarea {
     color: inherit
 }
 
+
 button {
     overflow: visible
 }
@@ -1603,12 +1604,12 @@ h2 {
 
 .h3,
 h3 {
-    font-size: 24px
+    font-size: 28px
 }
 
 .h4,
 h4 {
-    font-size: 18px
+    font-size: 22px
 }
 
 .h5,
@@ -5200,7 +5201,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-brand>img {
-    display: block
+    display: block;
+    height: 40px;
 }
 
 @media (min-width:768px) {
